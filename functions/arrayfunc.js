@@ -20,5 +20,5 @@ let ask = (question, yes, no) => {
 ask("do u agree?", () => {alert('u agree')}, () => {alert('u dont agree')})
 /*
 let func = () => expression
-let 
+let func = function() {}
 */
